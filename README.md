@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imedjedli" alt="imedjedli" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imed_jadli" target="blank"><img src="https://img.shields.io/twitter/follow/imed_jadli?logo=twitter&style=for-the-badge" alt="imed_jadli" /></a> </p>
+<p align="left"> <a href="https://facebook.com/jadli.imed" target="blank"><img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" alt="imed_jadli" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce projet**
 
